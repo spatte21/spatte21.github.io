@@ -1,10 +1,9 @@
 # Site settings
-title: Steve Blog
+title: The Porridge Box
 email: spatte21@btinternet.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nutritious and delicious, a healthy helping of blogging goodness.
+  What better way to start the day?
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://spatterson.me.uk" # the base hostname & protocol for your site
 twitter_username: spatte21
